@@ -1,0 +1,468 @@
+
+A1
+
+	Deutera
+
+1) Geografia By Eleni Kokkini
+2) Arxaia Elliniki Glwssa By Napoleontas Tempos
+3) Fusikh Agwgh By Giorgos Kouris
+4) Mathimatika By Pithagoras Papadatos
+5) Viologia By Eleni Kokkini
+6) Neoellinikh Grammatia By Aristidis Aeras
+7) Neoellinikh Glwssa By Aristidis Aeras
+
+	Trith
+
+1) Mathimatika By Pithagoras Papadatos
+2) Fusikh Agwgh By Giorgos Kouris
+3) Neoellinikh Glwssa By Aristidis Aeras
+4) Gallika By Karla Bougioukou
+5) Agglika By Elisavet Kalliora
+6) Istoria By Napoleontas Tempos
+7) Thriskeutika By Thomas Eftimiou
+
+	Tetarth
+
+1) Arxaia Elliniki Grammatia By Napoleontas Tempos
+2) Mathimatika By Pithagoras Papadatos
+3) Fisiki By Eleni Voithia
+4) Arxaia Elliniki Glwssa By Napoleontas Tempos
+5) Agglika By Elisavet Kalliora
+6) Thriskeutika By Thomas Eftimiou
+7) pliroforiki By Vasilis Titsias
+
+	Pempth
+
+1) Neoellinikh Grammatia By Aristidis Aeras
+2) Mathimatika By Pithagoras Papadatos
+3) Arxaia Elliniki Grammatia By Napoleontas Tempos
+4) pliroforiki By Vasilis Titsias
+5) Fisiki By Eleni Voithia
+6) Oikiakh Oikonomia By Makis Kotsabasis
+7) Texnologia By Theodoros Papadopoulos
+
+	Paraskeuh
+
+1) Istoria By Napoleontas Tempos
+2) Neoellinikh Glwssa By Aristidis Aeras
+3) Fisiki By Eleni Voithia
+4) Kallitexnika By Katia Paxinou
+5) Mousiki By Ioanna Bachinou
+6) Arxaia Elliniki Glwssa By Napoleontas Tempos
+7) Arxaia Elliniki Grammatia By Napoleontas Tempos
+
+A2
+
+	Deutera
+
+1) Agglika By Elisavet Kalliora
+2) Geografia By Eleni Kokkini
+3) Mathimatika By Takis Skalinos
+4) pliroforiki By Vasilis Titsias
+5) Neoellinikh Glwssa By Aristidis Aeras
+6) Arxaia Elliniki Grammatia By Napoleontas Tempos
+7) Thriskeutika By Thomas Eftimiou
+
+	Trith
+
+1) Mathimatika By Takis Skalinos
+2) Neoellinikh Glwssa By Aristidis Aeras
+3) Arxaia Elliniki Glwssa By Napoleontas Tempos
+4) Viologia By Eleni Voithia
+5) Istoria By Lenidas Dokimos
+6) Neoellinikh Grammatia By Aristidis Aeras
+7) Fisiki By Eleni Kokkini
+
+	Tetarth
+
+1) pliroforiki By Vasilis Titsias
+2) Arxaia Elliniki Glwssa By Napoleontas Tempos
+3) Kallitexnika By Katia Paxinou
+4) Mathimatika By Takis Skalinos
+5) Istoria By Lenidas Dokimos
+6) Fisiki By Eleni Kokkini
+7) Arxaia Elliniki Grammatia By Napoleontas Tempos
+
+	Pempth
+
+1) Oikiakh Oikonomia By Makis Kotsabasis
+2) Arxaia Elliniki Glwssa By Napoleontas Tempos
+3) Mathimatika By Takis Skalinos
+4) Mousiki By Ioanna Bachinou
+5) Neoellinikh Grammatia By Aristidis Aeras
+6) Fusikh Agwgh By Giorgos Kouris
+7) Arxaia Elliniki Grammatia By Napoleontas Tempos
+
+	Paraskeuh
+
+1) Neoellinikh Glwssa By Aristidis Aeras
+2) Gallika By Karla Bougioukou
+3) Fisiki By Eleni Kokkini
+4) Texnologia By Theodoros Papadopoulos
+5) Thriskeutika By Thomas Eftimiou
+6) Agglika By Elisavet Kalliora
+7) Fusikh Agwgh By Giorgos Kouris
+
+A3
+
+	Deutera
+
+1) Thriskeutika By Ioannis Papagiannis
+2) Gallika By Karla Bougioukou
+3) Oikiakh Oikonomia By Makis Kotsabasis
+4) Neoellinikh Glwssa By Aristidis Aeras
+5) Arxaia Elliniki Grammatia By Lenidas Dokimos
+6) Agglika By Elisavet Kalliora
+7) Arxaia Elliniki Glwssa By Lenidas Dokimos
+
+	Trith
+
+1) Neoellinikh Grammatia By Aristidis Aeras
+2) Agglika By Elisavet Kalliora
+3) Fisiki By Eleni Voithia
+4) Texnologia By Theodoros Papadopoulos
+5) Neoellinikh Glwssa By Aristidis Aeras
+6) Arxaia Elliniki Grammatia By Lenidas Dokimos
+7) Mathimatika By Ioanna Efklidou
+
+	Tetarth
+
+1) pliroforiki By Giorgos Tourinis
+2) Arxaia Elliniki Glwssa By Lenidas Dokimos
+3) Mathimatika By Ioanna Efklidou
+4) Neoellinikh Glwssa By Aristidis Aeras
+5) Fisiki By Eleni Voithia
+6) Fusikh Agwgh By Giorgos Kouris
+7) Istoria By Lenidas Dokimos
+
+	Pempth
+
+1) Mathimatika By Ioanna Efklidou
+2) Fusikh Agwgh By Giorgos Kouris
+3) Neoellinikh Grammatia By Aristidis Aeras
+4) Kallitexnika By Katia Paxinou
+5) Arxaia Elliniki Grammatia By Lenidas Dokimos
+6) Arxaia Elliniki Glwssa By Lenidas Dokimos
+7) Viologia By Eleni Voithia
+
+	Paraskeuh
+
+1) pliroforiki By Vasilis Titsias
+2) Mathimatika By Ioanna Efklidou
+3) Mousiki By Ioanna Bachinou
+4) Thriskeutika By Ioannis Papagiannis
+5) Fisiki By Eleni Voithia
+6) Istoria By Lenidas Dokimos
+7) Geografia By Eleni Kokkini
+
+B1
+
+	Deutera
+
+1) Neoelliniki Grammatia By Iraklis Pantelidis
+2) Mathimatika By Ioanna Efklidou
+3) Neoelliniki Glwssa By Leonidas Thimiou
+4) Istoria By Aristotelis Vasiliou
+5) Kallitexnika By Katia Paxinou
+6) Arxaia Ellhnikh Grammatia apo Metafrasi By Aristotelis Vasiliou
+7) Arxaia Ellhnikh Glwssa By Periklis Ioannou
+
+	Trith
+
+1) Agglika By Elisavet Kalliora
+2) Mousiki By Ioanna Bachinou
+3) Thriskeftika By Ioannis Papagiannis
+4) Xhmeia By Nefton Dimitriou
+5) Neoelliniki Glwssa By Leonidas Thimiou
+6) Mathimatika By Ioanna Efklidou
+7) Gallika By Karla Bougioukou
+
+	Tetarth
+
+1) Arxaia Ellhnikh Glwssa By Periklis Ioannou
+2) Istoria By Aristotelis Vasiliou
+3) Plhroforikh By Vasilis Titsias
+4) Texnologia By Theodoros Papadopoulos
+5) Mousiki By Ioanna Bachinou
+6) Fusikh By Nefton Dimitriou
+7) Mathimatika By Ioanna Efklidou
+
+	Pempth
+
+1) Fusikh By Nefton Dimitriou
+2) Geografia By Nefton Dimitriou
+3) Texnologia By Theodoros Papadopoulos
+4) Gallika By Karla Bougioukou
+5) Fusikh Agwgh By Giorgos Kouris
+6) Mathimatika By Ioanna Efklidou
+7) Viologia By Alvertos Theodorou
+
+	Paraskeuh
+
+1) Neoelliniki Grammatia By Iraklis Pantelidis
+2) Arxaia Ellhnikh Grammatia apo Metafrasi By Aristotelis Vasiliou
+3) Thriskeftika By Ioannis Papagiannis
+4) Agglika By Elisavet Kalliora
+5) Kallitexnika By Katia Paxinou
+6) Fusikh Agwgh By Giorgos Kouris
+7) Geografia By Nefton Dimitriou
+
+B2
+
+	Deutera
+
+1) Plhroforikh By Giorgos Tourinis
+2) Geografia By Alvertos Theodorou
+3) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+4) Mathimatika By Takis Skalinos
+5) Mousiki By Ioanna Bachinou
+6) Fusikh Agwgh By Giorgos Kouris
+7) Gallika By Karla Bougioukou
+
+	Trith
+
+1) Arxaia Ellhnikh Glwssa By Periklis Ioannou
+2) Fusikh By Nefton Dimitriou
+3) Istoria By Aristotelis Vasiliou
+4) Mathimatika By Takis Skalinos
+5) Geografia By Alvertos Theodorou
+6) Neoelliniki Grammatia By Iraklis Pantelidis
+7) Agglika By Elisavet Kalliora
+
+	Tetarth
+
+1) Mathimatika By Takis Skalinos
+2) Neoelliniki Grammatia By Iraklis Pantelidis
+3) Arxaia Ellhnikh Glwssa By Periklis Ioannou
+4) Neoelliniki Glwssa By Themistoklis Cheliotis
+5) Thriskeftika By Ioannis Papagiannis
+6) Istoria By Aristotelis Vasiliou
+7) Kallitexnika By Katia Paxinou
+
+	Pempth
+
+1) Agglika By Elisavet Kalliora
+2) Thriskeftika By Ioannis Papagiannis
+3) Kallitexnika By Katia Paxinou
+4) Texnologia By Theodoros Papadopoulos
+5) Neoelliniki Glwssa By Themistoklis Cheliotis
+6) Mathimatika By Takis Skalinos
+7) Xhmeia By Nefton Dimitriou
+
+	Paraskeuh
+
+1) Mousiki By Ioanna Bachinou
+2) Fusikh By Nefton Dimitriou
+3) Fusikh Agwgh By Giorgos Kouris
+4) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+5) Viologia By Nikolaos Teslas
+6) Texnologia By Theodoros Papadopoulos
+7) Gallika By Karla Bougioukou
+
+B3
+
+	Deutera
+
+1) Arxaia Ellhnikh Glwssa By Xenofon Varelis
+2) Texnologia By Theodoros Papadopoulos
+3) Istoria By Periklis Ioannou
+4) Fusikh Agwgh By Giorgos Kouris
+5) Neoelliniki Grammatia By Iraklis Pantelidis
+6) Thriskeftika By Thomas Eftimiou
+7) Kallitexnika By Katia Paxinou
+
+	Trith
+
+1) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+2) Mathimatika By Ioanna Efklidou
+3) Neoelliniki Grammatia By Leonidas Thimiou
+4) Agglika By Elisavet Kalliora
+5) Viologia By Nikolaos Teslas
+6) Thriskeftika By Thomas Eftimiou
+7) Fusikh By Alvertos Theodorou
+
+	Tetarth
+
+1) Arxaia Ellhnikh Glwssa By Xenofon Varelis
+2) Kallitexnika By Katia Paxinou
+3) Fusikh Agwgh By Giorgos Kouris
+4) Mathimatika By Ioanna Efklidou
+5) Texnologia By Theodoros Papadopoulos
+6) Agglika By Elisavet Kalliora
+7) Mousiki By Ioanna Bachinou
+
+	Pempth
+
+1) Mousiki By Ioanna Bachinou
+2) Mathimatika By Ioanna Efklidou
+3) Arxaia Ellhnikh Grammatia apo Metafrasi By Periklis Ioannou
+4) Geografia By Alvertos Theodorou
+5) Gallika By Karla Bougioukou
+6) Neoelliniki Glwssa By Themistoklis Cheliotis
+7) Istoria By Periklis Ioannou
+
+	Paraskeuh
+
+1) Neoelliniki Glwssa By Themistoklis Cheliotis
+2) Plhroforikh By Giorgos Tourinis
+3) Xhmeia By Nikolaos Teslas
+4) Geografia By Alvertos Theodorou
+5) Gallika By Karla Bougioukou
+6) Mathimatika By Ioanna Efklidou
+7) Fusikh By Alvertos Theodorou
+
+G1
+
+	Deutera
+
+1) Kallitexnika By Katia Paxinou
+2) Viologia By Nefton Dimitriou
+3) Mousiki By Ioanna Bachinou
+4) Neoelliniki Glwssa By Leonidas Thimiou
+5) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+6) Mathimatika By Pithagoras Papadatos
+7) Agglika By Elisavet Kalliora
+
+	Trith
+
+1) Fusikh Agwgh By Giorgos Kouris
+2) Arxaia Ellhnikh Glossa By Periklis Ioannou
+3) Neoelliniki Grammatia By Iraklis Pantelidis
+4) Neoelliniki Glwssa By Themistoklis Cheliotis
+5) Mathimatika By Pithagoras Papadatos
+6) Plhroforikh By Vasilis Titsias
+7) Istoria By Xenofon Varelis
+
+	Tetarth
+
+1) Fisiki By Nefton Dimitriou
+2) Texnologia By Theodoros Papadopoulos
+3) Istoria By Xenofon Varelis
+4) Thriskeftika By Thomas Eftimiou
+5) Gallika By Karla Bougioukou
+6) Mathimatika By Pithagoras Papadatos
+7) Arxaia Ellhnikh Grammatia apo Metafrasi By Aristotelis Vasiliou
+
+	Pempth
+
+1) Neoelliniki Grammatia By Iraklis Pantelidis
+2) Texnologia By Theodoros Papadopoulos
+3) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+4) Fusikh Agwgh By Giorgos Kouris
+5) Agglika By Elisavet Kalliora
+6) Mousiki By Ioanna Bachinou
+7) Thriskeftika By Thomas Eftimiou
+
+	Paraskeuh
+
+1) Gallika By Karla Bougioukou
+2) Arxaia Ellhnikh Glossa By Periklis Ioannou
+3) Kallitexnika By Katia Paxinou
+4) Xhmeia By Nefton Dimitriou
+5) Fisiki By Nefton Dimitriou
+6) Arxaia Ellhnikh Grammatia apo Metafrasi By Aristotelis Vasiliou
+7) Mathimatika By Pithagoras Papadatos
+
+G2
+
+	Deutera
+
+1) Mathimatika By Takis Skalinos
+2) Arxaia Ellhnikh Glossa By Aristotelis Vasiliou
+3) Agglika By Elisavet Kalliora
+4) Kallitexnika By Katia Paxinou
+5) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+6) Viologia By Alvertos Theodorou
+7) Neoelliniki Grammatia By Leonidas Thimiou
+
+	Trith
+
+1) Xhmeia By Alvertos Theodorou
+2) Mathimatika By Takis Skalinos
+3) Mousiki By Ioanna Bachinou
+4) Istoria By Periklis Ioannou
+5) Kallitexnika By Katia Paxinou
+6) Texnologia By Theodoros Papadopoulos
+7) Fisiki By Nikolaos Teslas
+
+	Tetarth
+
+1) Gallika By Karla Bougioukou
+2) Mathimatika By Takis Skalinos
+3) Thriskeftika By Thomas Eftimiou
+4) Fusikh Agwgh By Giorgos Kouris
+5) Neoelliniki Glwssa By Leonidas Thimiou
+6) Neoelliniki Grammatia By Leonidas Thimiou
+7) Plhroforikh By Giorgos Tourinis
+
+	Pempth
+
+1) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+2) Gallika By Karla Bougioukou
+3) Arxaia Ellhnikh Glossa By Aristotelis Vasiliou
+4) Agglika By Elisavet Kalliora
+5) Mathimatika By Takis Skalinos
+6) Thriskeftika By Thomas Eftimiou
+7) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+
+	Paraskeuh
+
+1) Texnologia By Theodoros Papadopoulos
+2) Fisiki By Nikolaos Teslas
+3) Neoelliniki Glwssa By Themistoklis Cheliotis
+4) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+5) Fusikh Agwgh By Giorgos Kouris
+6) Mousiki By Ioanna Bachinou
+7) Istoria By Periklis Ioannou
+
+G3
+
+	Deutera
+
+1) Arxaia Ellhnikh Glossa By Aristotelis Vasiliou
+2) Fusikh Agwgh By Giorgos Kouris
+3) Gallika By Karla Bougioukou
+4) Agglika By Elisavet Kalliora
+5) Thriskeftika By Ioannis Papagiannis
+6) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+7) Texnologia By Theodoros Papadopoulos
+
+	Trith
+
+1) Fisiki By Nefton Dimitriou
+2) Thriskeftika By Ioannis Papagiannis
+3) Kallitexnika By Katia Paxinou
+4) Mathimatika By Pithagoras Papadatos
+5) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+6) Mousiki By Ioanna Bachinou
+7) Neoelliniki Glwssa By Iraklis Pantelidis
+
+	Tetarth
+
+1) Agglika By Elisavet Kalliora
+2) Fisiki By Nefton Dimitriou
+3) Gallika By Karla Bougioukou
+4) Mousiki By Ioanna Bachinou
+5) Mathimatika By Pithagoras Papadatos
+6) Kallitexnika By Katia Paxinou
+7) Viologia By Alvertos Theodorou
+
+	Pempth
+
+1) Xhmeia By Nikolaos Teslas
+2) Arxaia Ellhnikh Grammatia apo Metafrasi By Xenofon Varelis
+3) Neoelliniki Grammatia By Themistoklis Cheliotis
+4) Arxaia Ellhnikh Glossa By Aristotelis Vasiliou
+5) Koinwnikh kai Politikh Agwgh By Makis Kotsabasis
+6) Mathimatika By Pithagoras Papadatos
+7) Istoria By Aristotelis Vasiliou
+
+	Paraskeuh
+
+1) Mathimatika By Pithagoras Papadatos
+2) Fusikh Agwgh By Giorgos Kouris
+3) Texnologia By Theodoros Papadopoulos
+4) Neoelliniki Grammatia By Themistoklis Cheliotis
+5) Istoria By Aristotelis Vasiliou
+6) Plhroforikh By Vasilis Titsias
+7) Neoelliniki Glwssa By Leonidas Thimiou
